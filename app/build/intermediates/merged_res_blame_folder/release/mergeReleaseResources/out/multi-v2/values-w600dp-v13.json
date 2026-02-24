@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.a3711activity.app-release-35:/values-w600dp-v13/values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/caches/9.1.0/transforms/2120f9148f8a2fd0feb119cf800e9334/transformed/material-1.14.0-alpha09/res/values-w600dp-v13/values-w600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,124",
+                        "endColumns": "68,69",
+                        "endOffsets": "119,189"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.a3711activity.app-mergeReleaseResources-33:/values-w600dp-v13/values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/caches/9.1.0/transforms/2120f9148f8a2fd0feb119cf800e9334/transformed/material-1.14.0-alpha09/res/values-w600dp-v13/values-w600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,124",
+                        "endColumns": "68,69",
+                        "endOffsets": "119,189"
+                    }
+                }
+            ]
+        }
+    ]
+}

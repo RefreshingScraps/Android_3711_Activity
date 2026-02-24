@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.a3711activity.app-release-35:/drawable-v23/m3_selection_control_ripple.xml",
+        "source": "com.a3711activity.app-material-1.14.0-alpha09-7:/drawable-v23/m3_selection_control_ripple.xml"
+    },
+    {
+        "merged": "com.a3711activity.app-release-35:/drawable-v23/m3_radiobutton_ripple.xml",
+        "source": "com.a3711activity.app-material-1.14.0-alpha09-7:/drawable-v23/m3_radiobutton_ripple.xml"
+    },
+    {
+        "merged": "com.a3711activity.app-release-35:/drawable-v23/abc_control_background_material.xml",
+        "source": "com.a3711activity.app-appcompat-1.7.1-21:/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "com.a3711activity.app-release-35:/drawable-v23/m3_tabs_background.xml",
+        "source": "com.a3711activity.app-material-1.14.0-alpha09-7:/drawable-v23/m3_tabs_background.xml"
+    },
+    {
+        "merged": "com.a3711activity.app-release-35:/drawable-v23/mtrl_popupmenu_background_overlay.xml",
+        "source": "com.a3711activity.app-material-1.14.0-alpha09-7:/drawable-v23/mtrl_popupmenu_background_overlay.xml"
+    },
+    {
+        "merged": "com.a3711activity.app-release-35:/drawable-v23/m3_tabs_transparent_background.xml",
+        "source": "com.a3711activity.app-material-1.14.0-alpha09-7:/drawable-v23/m3_tabs_transparent_background.xml"
+    }
+]

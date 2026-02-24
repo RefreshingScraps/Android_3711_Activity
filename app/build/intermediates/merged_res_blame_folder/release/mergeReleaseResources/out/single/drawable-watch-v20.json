@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.a3711activity.app-release-35:/drawable-watch-v20/abc_dialog_material_background.xml",
+        "source": "com.a3711activity.app-appcompat-1.7.1-21:/drawable-watch-v20/abc_dialog_material_background.xml"
+    }
+]

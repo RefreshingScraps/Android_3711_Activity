@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.a3711activity.app-release-35:/mipmap-anydpi-v26/ic_launcher_round.xml",
+        "source": "com.a3711activity.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.a3711activity.app-release-35:/mipmap-anydpi-v26/ic_launcher.xml",
+        "source": "com.a3711activity.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
